@@ -1,2 +1,1 @@
-# E-commerce-Website
-E-commerce Website using HTML, CSS , JAVASCRIPT.
+	Developed an E-Commerce website using HTML, CSS, and JavaScript with product listing, search, cart, and checkout features.                                                                                                    
